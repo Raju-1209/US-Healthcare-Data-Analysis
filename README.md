@@ -56,5 +56,6 @@ In this analysis, I explored US healthcare data to uncover demographic trends, h
 
 This dashboard provides valuable insights for patients and the public to understand healthcare costs for medical conditions and medications! 💉💰
 
+🔗 - <a href="https://github.com/Raju-1209/US-Healthcare-Data-Analysis/blob/main/project.ipynb">US Healthcare Data Analysis</a> 
 
 #Python #SQL #Oracle #Pandas #Numpy #Matplotlib #Seaborn #Ploty #USHeathcare #DataVisualization #PatientEmpowerment
